@@ -17,3 +17,5 @@
     </io.github.putme2yourheart.pullview.PullView>
 
 </RelativeLayout>
+
+![image](https://github.com/putme2yourheart/PullView/raw/master/screenshots/sample.gif)
